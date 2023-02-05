@@ -42,4 +42,13 @@ action: "DELETE" location: /students/2 - students#destroy deletes a particular s
 
 5. As a developer, you are making an application to manage your to do list. Create 10 user stories that will help you get your application started. Read more about [user stories](https://www.atlassian.com/agile/project-management/user-stories).
 
-<!-- *** Confused on how to complete this question. I read over the link provided and referenced to the syllabus. *** -->
+-As a user I can see my to do list on home page
+-As a user I can mark item on the list as complete
+-As a user I can go to specific item on list to see status
+-As a user I can go to spcific item and update
+-As a user I can delete specific item after fully completed
+-As a user I can click on home and go back to see task deleted from list
+-As a user I can add new item to the to do list
+-As a user I can go to specific item and edit name of to do item
+-As a user I can click back to home to see changes made
+-As a user I can see to do list and whether its not completed or completed
